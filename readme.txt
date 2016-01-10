@@ -13,12 +13,13 @@
 \f0\b0 \cf2 \strokec2  a distributed version control system.\
 Git 
 \f1\b \cf4 \strokec4 is
-\f0\b0 \cf2 \strokec2  free software distributed under the GPL.
+\f0\b0 \cf2 \strokec2  free software distributed under the GPL.\
+Git has a mutable index called stage.
 \f2 \
 \pard\pardeftab720\sl360\partightenfactor0
+\cf5 \cb6 \outl0\strokewidth0 \
 
-\f0 \cf5 \cb6 \outl0\strokewidth0 \
-\pard\pardeftab720\sl360\partightenfactor0
+\f0 \
 
-\f2 \cf5 \cb6 \
+\f2 \
 }
