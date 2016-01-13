@@ -25,8 +25,5 @@ Git
 \f0\b0 \cf5 \strokec5  branch is quick & simple.
 \f2 \
 \pard\pardeftab720\sl360\partightenfactor0
-
-\f0 \cf2 \cb3 \outl0\strokewidth0 \
-
-\f2 \
+\cf2 \cb3 \outl0\strokewidth0 \
 }
