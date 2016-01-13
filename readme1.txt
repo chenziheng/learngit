@@ -26,4 +26,5 @@ Git
 \f2 \
 \pard\pardeftab720\sl360\partightenfactor0
 \cf2 \cb3 \outl0\strokewidth0 \
+\
 }
