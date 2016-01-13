@@ -2,7 +2,7 @@
 {\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Bold;\f2\fnil\fcharset0 Consolas;
 }
 {\colortbl;\red255\green255\blue255;\red52\green52\blue52;\red249\green249\blue249;\red38\green38\blue38;
-\red210\green0\blue53;\red249\green249\blue249;\red52\green52\blue52;}
+\red210\green0\blue53;}
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \deftab720
 \pard\pardeftab720\sl360\partightenfactor0
@@ -13,7 +13,7 @@ Git
 \f0\b0 \cf2  a version control system.\
 Git 
 \f1\b \cf4 is
-\f0\b0 \cf2  free software.
+\f0\b0 \cf2  free a software.
 \f2 \
 
 \f0 Creating a 
@@ -22,17 +22,15 @@ Git
 Creating a 
 \f1\b \cf4 new
 \f0\b0 \cf2  branch is quick & simple.\
-\pard\pardeftab720\sl360\partightenfactor0
-\cf2 \cb3 Creating a 
+Creating a 
 \f1\b \cf4 new
 \f0\b0 \cf2  branch is quick 
 \f1\b \cf4 AND
 \f0\b0 \cf2  simple.\
 \pard\pardeftab720\sl360\partightenfactor0
-\cf5 \cb6 \outl0\strokewidth0 \strokec5 add merge
-\f2 \cf7 \strokec7 \
-\pard\pardeftab720\sl360\partightenfactor0
-\cf2 \cb3 \outl0\strokewidth0 \
+\cf5 \cb3 add merge
+\f2 \cf2 \
+\
 \
 \
 }
